@@ -1,0 +1,441 @@
+[
+  {
+    "ReferenceNumber": 4,
+    "Description": "Physical Description",
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Benzoic acid appears as a white crystalline solid. Slightly soluble in water. The primary hazard is the potential for environmental damage if released. Immediate steps should be taken to limit spread to the environment. Used to make other chemicals, as a food preservative, and for other uses.",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 71,
+              "Length": 5,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-962"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 11,
+    "Name": "Record Description",
+    "Description": "Ontology Summary",
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Benzoic acid is a compound comprising a benzene ring core carrying a carboxylic acid substituent. It has a role as an antimicrobial food preservative, an EC 3.1.1.3 (triacylglycerol lipase) inhibitor, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, a plant metabolite, a human xenobiotic metabolite, an algal metabolite and a drug allergen. It is a conjugate acid of a benzoate.",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 40,
+              "Length": 7,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzene",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-241"
+            },
+            {
+              "Start": 219,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arachidonate",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-5460265"
+            },
+            {
+              "Start": 380,
+              "Length": 8,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoate",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-21848922"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 23,
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "A fungistatic compound that is widely used as a food preservative. It is conjugated to GLYCINE in the liver and excreted as hippuric acid. As the sodium salt form, sodium benzoate is used as a treatment for urea cycle disorders due to its ability to bind amino acids. This leads to excretion of these amino acids and a decrease in ammonia levels. Recent research shows that sodium benzoate may be beneficial as an add-on therapy (1 gram/day) in schizophrenia. Total Positive and Negative Syndrome Scale scores dropped by 21% compared to placebo.",
+          "Markup": [
+            {
+              "Start": 87,
+              "Length": 7,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GLYCINE",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-750"
+            },
+            {
+              "Start": 124,
+              "Length": 13,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hippuric%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-464"
+            },
+            {
+              "Start": 146,
+              "Length": 6,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+              "Type": "PubChem Internal Link",
+              "Extra": "Element-Sodium"
+            },
+            {
+              "Start": 164,
+              "Length": 15,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20benzoate",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-517055"
+            },
+            {
+              "Start": 207,
+              "Length": 4,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/urea",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-1176"
+            },
+            {
+              "Start": 331,
+              "Length": 7,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-222"
+            },
+            {
+              "Start": 374,
+              "Length": 15,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20benzoate",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-517055"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 42,
+    "Description": "FDA Pharmacology Summary",
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Benzoic acid is a Nitrogen Binding Agent. The mechanism of action of benzoic acid is as an Ammonium Ion Binding Activity.",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 18,
+              "Length": 8,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Nitrogen",
+              "Type": "PubChem Internal Link",
+              "Extra": "Element-Nitrogen"
+            },
+            {
+              "Start": 69,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 91,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ammonium%20Ion",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-223"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 81,
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Benzoic Acid has been reported in Desmos chinensis, Paeonia emodi, and other organisms with data available.",
+          "Markup": [
+            {
+              "Start": 34,
+              "Length": 16,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/1179221#section=Natural-Products"
+            },
+            {
+              "Start": 52,
+              "Length": 13,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/taxonomy/40708#section=Natural-Products"
+            },
+            {
+              "Start": 71,
+              "Length": 15,
+              "URL": "#section=Taxonomy"
+            },
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20Acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 132,
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "BENZOIC ACID is a small molecule drug with a maximum clinical trial phase of IV and is indicated for urinary tract infection.",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BENZOIC%20ACID",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 161,
+    "ExtendedReference": [
+      {
+        "Citation": "L277: Wikipedia. Copper. Last Updated 29 May 2009. http://en.wikipedia.org/wiki/Copper",
+        "Matched": {
+          "PCLID": 906299834
+        }
+      },
+      {
+        "Citation": "L278: ATSDR - Agency for Toxic Substances and Disease Registry (2004). Toxicological profile for copper. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp132.html",
+        "Matched": {
+          "PCLID": 900176599
+        }
+      },
+      {
+        "Citation": "L284: Wikipedia. Copper benzoate. Last Updated 18 February 2009. http://en.wikipedia.org/wiki/Copper_benzoate",
+        "Matched": {
+          "PCLID": 900177440
+        }
+      }
+    ],
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Copper benzoate is the chemical compound derived from the cupric ion and the conjugate base of benzoic acid. As copper emits blue when heated in a flame, this salt has found some use as a source of blue light in fireworks. Copper is a chemical element with the symbol Cu and atomic number 29. Copper is an essential elements in plants and animals as it is required for the normal functioning of more than 30 enzymes. It occurs naturally throughout the environment in rocks, soil, water, and air. (L277, L278, L284)",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 15,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Copper%20benzoate",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-164650"
+            },
+            {
+              "Start": 58,
+              "Length": 6,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cupric",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-27099"
+            },
+            {
+              "Start": 95,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 112,
+              "Length": 6,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Copper",
+              "Type": "PubChem Internal Link",
+              "Extra": "Element-Copper"
+            },
+            {
+              "Start": 223,
+              "Length": 6,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Copper",
+              "Type": "PubChem Internal Link",
+              "Extra": "Element-Copper"
+            },
+            {
+              "Start": 293,
+              "Length": 6,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Copper",
+              "Type": "PubChem Internal Link",
+              "Extra": "Element-Copper"
+            },
+            {
+              "Start": 480,
+              "Length": 5,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-962"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 162,
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "Benzoic acid, C6H5COOH, is a colourless crystalline solid and the simplest aromatic carboxylic acid. Benzoic acid occurs naturally free and bound as benzoic acid esters in many plant and animal species. Appreciable amounts have been found in most berries (around 0.05%). Cranberries contain as much as 300-1300 mg free benzoic acid per kg fruit. Benzoic acid is a fungistatic compound that is widely used as a food preservative. It often is conjugated to glycine in the liver and excreted as hippuric acid. Benzoic acid is a byproduct of phenylalanine metabolism in bacteria. It is also produced when gut bacteria process polyphenols (from ingested fruits or beverages).",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 101,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 319,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 346,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 455,
+              "Length": 7,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycine",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-750"
+            },
+            {
+              "Start": 492,
+              "Length": 13,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hippuric%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-464"
+            },
+            {
+              "Start": 507,
+              "Length": 12,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoic%20acid",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-243"
+            },
+            {
+              "Start": 538,
+              "Length": 13,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylalanine",
+              "Type": "PubChem Internal Link",
+              "Extra": "CID-6140"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 168,
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "A fungistatic compound that is widely used as a food preservative. It is conjugated to GLYCINE in the liver and excreted as hippuric acid."
+        }
+      ]
+    }
+  },
+  {
+    "ReferenceNumber": 169,
+    "Name": "See Also",
+    "Value": {
+      "StringWithMarkup": [
+        {
+          "String": "See also: Salicylic Acid (active moiety of); Benzoyl Peroxide (active moiety of); Sodium Benzoate (active moiety of) ... View More ...",
+          "Markup": [
+            {
+              "Start": 0,
+              "Length": 8,
+              "URL": "#section=Other-Relationships"
+            },
+            {
+              "Start": 10,
+              "Length": 14,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/338"
+            },
+            {
+              "Start": 10,
+              "Length": 14,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=338",
+              "Type": "Icon"
+            },
+            {
+              "Start": 45,
+              "Length": 16,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7187"
+            },
+            {
+              "Start": 45,
+              "Length": 16,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=7187",
+              "Type": "Icon"
+            },
+            {
+              "Start": 82,
+              "Length": 15,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/517055"
+            },
+            {
+              "Start": 82,
+              "Length": 15,
+              "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=517055",
+              "Type": "Icon"
+            },
+            {
+              "Start": 121,
+              "Length": 9,
+              "URL": "#section=Other-Relationships"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
